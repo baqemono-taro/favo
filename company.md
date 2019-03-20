@@ -61,4 +61,6 @@
 - Wonderland.
 	- https://wonderlandams.com/
 	- https://www.awwwards.com/wonderland/
-- 	
+- Exo Ape
+	- https://www.awwwards.com/exo-ape/
+	- https://exoape.com/
