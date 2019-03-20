@@ -1,9 +1,5 @@
 ## Jp
-<dl>
-  <dt>Garden Eight</dt>
-  <dd>
+Garden Eight
   	https://garden-eight.com/  
   	https://www.awwwards.com/GardenEight/
-  </dd>
-</dl> 
 	 
