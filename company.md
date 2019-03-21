@@ -19,13 +19,16 @@
 
 # France
 - Immersive Garden  
-	- http://www.immersive-g.com/
+	- https://immersive-g.com/
 	- https://www.awwwards.com/immersivegarden/
+- makemepulse 
+	- http://www.makemepulse.com/
+	- https://www.awwwards.com/makemepulse/
 - BONHOMME
-	- http://bonhommeparis.com/
+	- https://bonhommeparis.com/
 	- https://www.awwwards.com/BONHOMME/
 - Merci-Michel  
-	- http://merci-michel.com/
+	- https://www.merci-michel.com/
 	- https://www.awwwards.com/Merci-Michel/
 - Waaark
 	- https://waaark.com/
@@ -40,16 +43,46 @@
 	- http://betcdigital.studio/
 	- https://www.awwwards.com/betcdigital/
 - index
-	- http://www.index.studio/
+	- https://index.studio/
 	- https://www.awwwards.com/by_index/
+- Wokine
+	- https://www.wokine.com/
+	- https://www.awwwards.com/Wokine/	
+- Contemple
+	- http://ccccontemple.com/
+	- https://www.awwwards.com/Contemple/
+- 60fps
+	- http://60fps.fr/
+	- https://www.awwwards.com/weare60fps/
+- SIDLEE
+	- https://sidlee.com/
+	- https://www.awwwards.com/SIDLEEParis/	
+- Rezo Zero
+	- https://www.rezo-zero.com/
+	- https://www.awwwards.com/RezoZero/
 
 # United States 
+- ACTIVE THEORY
+	- https://activetheory.net/
+	- https://www.awwwards.com/active_theory/
 - BASIC
 	- http://www.basicagency.com/
 	- https://www.awwwards.com/basic/
 - OUI WILL
 	- http://www.ouiwill.com/
 	- https://www.awwwards.com/ouiwill/
+- Ueno 
+	- https://ueno.co/
+	- https://www.awwwards.com/ueno./
+- Watson Design Group
+	- https://watson.la/
+	- https://www.awwwards.com/watson-dg/
+- Stink Studios
+	- https://www.stinkstudios.com/
+	- https://www.awwwards.com/stinkstudios/
+- dogstudio
+	- https://www.dogstudio.co/
+	- https://www.awwwards.com/dogstudio/
 - Legwork Studio
 	- http://legworkstudio.com/
 	- https://www.awwwards.com/legwork/
@@ -57,10 +90,74 @@
 	- https://dribbble.com/rally
 	- https://www.awwwards.com/rally/	
 
+# Canada
+- Locomotive
+	- http://locomotive.ca/
+	- https://www.awwwards.com/locomotive/
+- Akufen
+	- http://akufen.ca/
+	- https://www.awwwards.com/directory/Canada/
+- Jam3
+	- https://www.jam3.com/
+	- https://www.awwwards.com/Jam3/
+- Phoenix
+	- https://phoenix.cool/
+	- https://www.awwwards.com/PhoenixTheCreativeStudio/	
+
+# Italy
+- Adoratorio
+	- https://adoratorio.studio/
+	- https://www.awwwards.com/adoratorio/
+- AQuest
+	- https://www.aquest.it/
+	- https://www.awwwards.com/aquest/
+- GUSTO IDS
+	- http://www.studiogusto.com/
+	- https://www.awwwards.com/studiogusto/
+- Basilico
+	- https://www.basili.co/
+	- https://www.awwwards.com/basilico/
+- MONOGRID
+	- http://www.mono-grid.com/
+	- https://www.awwwards.com/MONOGRID/	
+
 # Netherlands
+- Resn
+	- https://www.resn.co.nz/
+	- https://www.awwwards.com/resn/
 - Wonderland.
 	- https://wonderlandams.com/
 	- https://www.awwwards.com/wonderland/
 - Exo Ape
 	- https://www.awwwards.com/exo-ape/
 	- https://exoape.com/
+
+# United Kingdom 
+- Green Chameleon
+	- https://www.craftedbygc.com/
+	- https://www.awwwards.com/Green_Chameleon/
+- UNIT9
+	- https://www.unit9.com/
+	- https://www.awwwards.com/unit9/
+- ToyFight
+	- https://toyfight.co/
+	- https://www.awwwards.com/ToyFight/
+- BryBry
+	- https://brybry.co/
+	- https://www.awwwards.com/bryanjamesinteractive/
+
+# Austria 
+- WILD
+	- https://wild.as/
+	- https://www.awwwards.com/madebywild/
+
+# Spain
+- Twenty two degrees
+	- http://www.veintidosgrados.com/
+	- https://www.awwwards.com/twenty-two-degrees/
+
+# Poland
+- Huncwot
+	- https://huncwot.com/en
+	- https://www.awwwards.com/huncwot/
+
