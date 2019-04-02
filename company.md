@@ -89,6 +89,9 @@
 - Rally
 	- https://dribbble.com/rally
 	- https://www.awwwards.com/rally/	
+- Sochnik Studio
+	- https://sochnik.design/
+	- https://www.awwwards.com/SochnikStudio/
 
 # Canada
 - Locomotive
