@@ -1,6 +1,6 @@
 # Japan
 - Wongeun Heo
-	- https://branu.jp/ Branu
+	- [https://branu.jp/](https://branu.jp/ “https://branu.jp/”){:target="_blank"} Branu
 	- https://playup.jp/ PLAY/UP
 
 - Yuichiroh Arai
