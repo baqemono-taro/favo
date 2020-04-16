@@ -105,6 +105,12 @@
 - Resn
 	- https://www.resn.co.nz/
 	- https://www.awwwards.com/resn/
+- Numbered
+	- https://numbered.studio/
+	- https://www.awwwards.com/Numbered/
+- Build in Amsterdam
+	- https://www.buildinamsterdam.com/
+	- https://www.awwwards.com/buildinamsterdam/
 - Superhero Cheesecake
 	- https://superherocheesecake.com/
 	- https://www.awwwards.com/superherocheesecake/
