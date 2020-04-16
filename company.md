@@ -41,6 +41,29 @@
 	- https://sidlee.com/
 	- https://www.awwwards.com/SIDLEEParis/	
 
+# Netherlands
+- Resn
+	- https://www.resn.co.nz/
+	- https://www.awwwards.com/resn/
+- Numbered
+	- https://numbered.studio/
+	- https://www.awwwards.com/Numbered/
+- Build in Amsterdam
+	- https://www.buildinamsterdam.com/
+	- https://www.awwwards.com/buildinamsterdam/
+- Superhero Cheesecake
+	- https://superherocheesecake.com/
+	- https://www.awwwards.com/superherocheesecake/
+- Wonderland.
+	- https://wonderlandams.com/
+	- https://www.awwwards.com/wonderland/
+- MediaMonks
+	- https://www.mediamonks.com/
+	- https://www.awwwards.com/mediamonks/
+- Exo Ape
+	- https://www.awwwards.com/exo-ape/
+	- https://exoape.com/
+
 # United States 
 - ACTIVE THEORY
 	- https://activetheory.net/
@@ -100,29 +123,6 @@
 - MONOGRID
 	- http://www.mono-grid.com/
 	- https://www.awwwards.com/MONOGRID/	
-
-# Netherlands
-- Resn
-	- https://www.resn.co.nz/
-	- https://www.awwwards.com/resn/
-- Numbered
-	- https://numbered.studio/
-	- https://www.awwwards.com/Numbered/
-- Build in Amsterdam
-	- https://www.buildinamsterdam.com/
-	- https://www.awwwards.com/buildinamsterdam/
-- Superhero Cheesecake
-	- https://superherocheesecake.com/
-	- https://www.awwwards.com/superherocheesecake/
-- Wonderland.
-	- https://wonderlandams.com/
-	- https://www.awwwards.com/wonderland/
-- MediaMonks
-	- https://www.mediamonks.com/
-	- https://www.awwwards.com/mediamonks/
-- Exo Ape
-	- https://www.awwwards.com/exo-ape/
-	- https://exoape.com/
 
 # United Kingdom 
 - Green Chameleon
